@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+    <item android:id="@+id/button_cancel"
+        android:title="@string/button_cancel"
+        android:orderInCategory="0"
+        app:showAsAction="always" />
+    <item android:id="@+id/button_paste"
+        android:title="@string/button_paste"
+        android:orderInCategory="1"
+        app:showAsAction="always" />
+    <item android:id="@+id/button_move"
+        android:title="@string/button_move"
+        android:orderInCategory="2"
+        app:showAsAction="always" />
+</menu>

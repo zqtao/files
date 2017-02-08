@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">Files</string>
+    <string name="action_select_items">Select items</string>
+
+    <string name="action_show_hidden">Show Hidden File</string>
+    <string name="action_hide_hidden">Hide Hidden File</string>
+    <string name="action_search">Search</string>
+
+    <string name="action_share">Share</string>
+    <string name="action_delete">Delete</string>
+    <string name="action_move">Move</string>
+    <string name="action_copy">Copy</string>
+    <string name="action_rename">Rename</string>
+    <string name="action_detail">Detail</string>
+
+    <string name="button_cancel">Cancel</string>
+    <string name="button_create">Create</string>
+    <string name="button_done">Done</string>
+    <string name="button_paste">Paste Here</string>
+    <string name="button_move">Move Here</string>
+
+    <string name="desc_sotrage_type">Show Storage type, sdcard or cloud</string>
+</resources>
